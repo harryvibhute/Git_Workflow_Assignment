@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int f1();
+int f2();
 
 int main()
 {   
@@ -9,7 +9,7 @@ int main()
    return 0;
 }
 
-int f1()
+int f2()
 {
 	printf("This is feature2");
 	return 0;
