@@ -16,8 +16,7 @@ int f2()
 {
 	printf("This is feature2");
 	return 0;
-   f1();
-   return 0;
+   
 }
 
 
