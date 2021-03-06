@@ -5,7 +5,7 @@ int f2();
 int main()
 {   
    printf("This is master branch");
-   f1();
+   f2();
    return 0;
 }
 
